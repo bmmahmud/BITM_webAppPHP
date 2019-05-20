@@ -1,0 +1,42 @@
+*{
+    margin: 0;padding: 0;
+}
+div#header{
+    background: black;
+    height: 200px;
+    width: 100%;
+    float: left;
+}
+
+div#sidebar-left{
+    float: left;
+    height: 700px;
+    width: 20%;
+    background:brown;
+}
+div#content{
+    float: left;
+    height: 700px;
+    width: 60%;
+    background:graytext;
+}
+div#content div.one{
+    float: left;
+    background: greenyellow;
+    height: 300px;
+    width: 100px;
+    margin-left: 50px;
+}
+div#sidebar-right{
+    float: left;
+    height: 700px;
+    width: 20%;
+    background:brown;
+}
+
+div#footer{
+    background: black;
+    height: 200px;
+    width: 100%;
+    float: left;
+}
