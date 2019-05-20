@@ -1,0 +1,37 @@
+	Basic Syntax
+	Selector
+	Background
+	Alignemnt
+	floating
+	Margin
+	Padding
+	Border
+	Overflow
+	Positioning
+
+** Tables
+** Lists, Links, Border
+	Inline, Internal , external
+	() = Parenthesis
+	{} = Curly Bracket
+	[] = Round Bracket
+		
+	margin: Top Right Bottom Left;
+	margin: Top right/left Bottom;
+	margin:	Top/Bottom Right/Left;
+	margin:	All;	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
