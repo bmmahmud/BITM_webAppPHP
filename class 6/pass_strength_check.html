@@ -1,0 +1,35 @@
+<html>
+    <head>
+        <title>Password Strength</title>
+        <script type="text/javascript" src="js/jQuery.js"></script>
+        <script type="text/javascript" src="js/main.js"></script>
+        <style>
+            #text,#pass,#checker{
+                float: left;
+            }
+            .weak{
+                background: red;height: 20px;
+                width: 75px; color: white;
+                text-align: center;line-height: 20px;
+                margin-left: 5px;
+            }
+            .good{
+                background:orange;height: 20px;
+                width: 75px; color: white;
+                text-align: center;line-height: 20px;
+                margin-left: 5px;
+            }
+            .strong{
+                background:green;height: 20px;
+                width: 75px; color: white;
+                text-align: center;line-height: 20px;
+                margin-left: 5px;
+            }
+        </style>
+    </head>
+    <body>
+        <span id="text"></span>
+        <input type="password" id="pass" placeholder="Enter Password">
+        <span id="checker"></span>
+    </body>
+</html>
